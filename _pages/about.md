@@ -31,9 +31,10 @@ I currently work at BlackRock.
 - *2017* Science Olympiad Regional Tournament (Team 2nd place). 
 
 # 📖 Educations
-- *2021-2022*: I graduated from Georgia Institue of Technology.
-- *2018-2021*: I graduated from University of Wisconsin-Madison.
+- *2020-2021*: I graduated from Georgia Institue of Technology (Master).
+- *2018-2020*: I graduated from University of Wisconsin-Madison (Bachelor).
 
 # 💻 Internships
+- *2021.06 - 2021.08*, Summer Intern, BlackRock, GA, US
 - *2019.06 - 2019.08*, Shenwan Hongyuan Securities Co.Ltd, China
 - *2018.12 - 2019.06* AIA Group, China
